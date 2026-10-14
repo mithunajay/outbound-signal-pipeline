@@ -1,0 +1,47 @@
+{
+  "fake-selfhost-co": [
+    {
+      "name": "core",
+      "description": "Self-host friendly platform with docker compose",
+      "topics": [
+        "docker"
+      ],
+      "stargazers_count": 12000,
+      "pushed_at": "2026-10-12T09:38:45Z"
+    },
+    {
+      "name": "helm-charts",
+      "description": "Helm charts",
+      "topics": [
+        "kubernetes"
+      ],
+      "stargazers_count": 400,
+      "pushed_at": "2026-10-09T09:38:45Z"
+    },
+    {
+      "name": "sdk",
+      "description": "SDK",
+      "topics": [],
+      "stargazers_count": 900,
+      "pushed_at": "2026-10-05T09:38:45Z"
+    }
+  ],
+  "fake-quiet-co": [
+    {
+      "name": "old-lib",
+      "description": "Legacy library",
+      "topics": [],
+      "stargazers_count": 80,
+      "pushed_at": "2025-09-09T09:38:45Z"
+    }
+  ],
+  "fake-mid-co": [
+    {
+      "name": "api",
+      "description": "API gateway",
+      "topics": [],
+      "stargazers_count": 2500,
+      "pushed_at": "2026-09-24T09:38:45Z"
+    }
+  ]
+}

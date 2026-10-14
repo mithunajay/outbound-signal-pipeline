@@ -1,0 +1,21 @@
+{
+  "icp": {
+    "min_total_stars": 500,
+    "selfhost_keywords": ["docker", "self-host", "selfhost", "helm", "kubernetes", "on-prem"]
+  },
+  "weights": {
+    "stars_1k": 20,
+    "stars_10k": 15,
+    "active_repos_3plus": 20,
+    "active_repos_1plus": 10,
+    "pushed_within_14d": 15,
+    "selfhost_signal": 30
+  },
+  "tiers": { "A": 70, "B": 40 },
+  "llm": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-5-5",
+    "max_tokens": 120,
+    "max_words": 35
+  }
+}

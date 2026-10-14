@@ -1,0 +1,6 @@
+   __pycache__/
+   *.pyc
+   data/cache/
+   data/send_log.csv
+   output/*.csv
+   .env
